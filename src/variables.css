@@ -1,0 +1,7 @@
+:root {
+  --color-primary: #091332;
+  --color-secondary: #5c5cd3;
+  --gradient-primary: linear-gradient(45deg, #8231E5, #3BB8C2 );
+  --gradient-secondary: linear-gradient(90deg, #F37683, #9C33D7);
+  --gradient-primary-shadow: -40px 0 100px #8231E5, 40px 0 100px  #3BB8C2;
+}
